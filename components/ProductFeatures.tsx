@@ -21,7 +21,7 @@ const features = [
   {
     icon: "📅",
     title: "Vintage",
-    body: "May 31, 2026. A date that will live in Arsenal infamy, right next to every other date they were supposed to win something and didn't.",
+    body: "May 30, 2026. A date that will live in Arsenal infamy, right next to every other date they were supposed to win something and didn't.",
   },
   {
     icon: "🎁",
