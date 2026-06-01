@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const WHATSAPP_NUMBER = "250783177179";
 const WHATSAPP_MESSAGE = encodeURIComponent(
-  "Hi 👋 I'd like to order an Arsenal Bottlers™ water bottle. My Arsenal fan friend needs one urgently — they're still not over the final. 😂"
+  "Hi 👋 I'd like to order an Arsenal Bottlerz™ water bottle. My Arsenal fan friend needs one urgently — they're still not over the final. 😂"
 );
 const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}?text=${WHATSAPP_MESSAGE}`;
 

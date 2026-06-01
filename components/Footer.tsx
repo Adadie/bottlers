@@ -67,7 +67,7 @@ export default function Footer() {
           <div className="h-px w-24 bg-[#1a1a1a] mx-auto mb-6" />
 
           <p className="text-[#333] text-xs leading-relaxed max-w-lg mx-auto">
-            Arsenal Bottlers™ is an independent trolling initiative. Arsenal
+            Arsenal Bottlerz™ is an independent trolling initiative. Arsenal
             Football Club had no involvement in this product and probably wishes
             they had won the UCL instead. No Arsenal fans were physically harmed
             in the making of these bottles. Emotionally, however, is another

@@ -57,7 +57,7 @@ export default function ProductFeatures() {
             className="text-5xl md:text-6xl font-black text-[#f0ebe0] leading-tight"
             style={{ fontFamily: "var(--font-playfair, Georgia, serif)" }}
           >
-            Why Arsenal Bottlers™?
+            Why Arsenal Bottlerz™?
           </motion.h2>
           <motion.p
             initial={{ opacity: 0 }}

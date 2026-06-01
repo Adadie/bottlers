@@ -57,7 +57,7 @@ export default function Hero() {
         >
           <span className="text-[#ef0107] text-glow-red">Arsenal</span>
           <br />
-          <span className="text-[#f0ebe0] italic">Bottlers™</span>
+          <span className="text-[#f0ebe0] italic">Bottlerz™</span>
         </motion.h1>
 
         {/* Tagline */}

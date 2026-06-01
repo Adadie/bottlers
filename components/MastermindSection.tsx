@@ -102,7 +102,7 @@ export default function MastermindSection() {
               <p>
                 Hours of work. Printed sheets. Precision cutting. Label
                 application. And now, holding the finished product —{" "}
-                <span className="text-[#f0ebe0]">Arsenal Bottlers™</span>, the
+                <span className="text-[#f0ebe0]">Arsenal Bottlerz™</span>, the
                 most thoughtful, most diabolical gift in UCL final history.
               </p>
               <p>

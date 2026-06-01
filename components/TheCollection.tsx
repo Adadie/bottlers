@@ -71,7 +71,7 @@ export default function TheCollection() {
                 className="text-3xl md:text-5xl font-black text-white leading-tight"
                 style={{ fontFamily: "var(--font-playfair, Georgia, serif)" }}
               >
-                Arsenal Bottlers™
+                Arsenal Bottlerz™
                 <br />
                 <span className="text-[#ef0107]">2026 UCL Final Series</span>
               </h3>

@@ -16,7 +16,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Arsenal Bottlers™ | Official UCL Final Commemorative Water",
+  title: "Arsenal Bottlerz™ | Official UCL Final Commemorative Water",
   description:
     "Premium hydration, bottled fresh from the Emirates. May 31, 2026 — a date that will live in infamy.",
 };
